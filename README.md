@@ -1,1 +1,1 @@
-# sm.github.io
+This project for sm.hocbaionha.com page only
