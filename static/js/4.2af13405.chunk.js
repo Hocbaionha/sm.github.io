@@ -1,2 +1,0 @@
-(this["webpackJsonp@devias-io/material-kit-pro-react"]=this["webpackJsonp@devias-io/material-kit-pro-react"]||[]).push([[4],{1290:function(e,i){e.exports=function(e,i,t){return i in e?Object.defineProperty(e,i,{value:t,enumerable:!0,configurable:!0,writable:!0}):e[i]=t,e}},1859:function(e,i,t){}}]);
-//# sourceMappingURL=4.2af13405.chunk.js.map
